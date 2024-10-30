@@ -142,8 +142,6 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <h2>
   Socials 
 </h2>
-<a href="#-my-skill-sets--">
-    <img src = "https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif" width="50" height="50></a> 
 <br/>
 <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width ="60"></a> 
@@ -154,11 +152,11 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<br/>
 [![](https://visitcount.itsvg.in/api?id=yoonju88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<h2> Let’s connect and create something amazing together! 
-<img href="https://i.pinimg.com/originals/6c/79/08/6c7908d10ee7a48b3a410bd5a09849ad.gif" alt="work together" width="50" height="60"/>
+<br/>
+<h2> Let’s connect and create something amazing together!  
 </h2>
 
  
