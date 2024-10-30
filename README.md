@@ -141,10 +141,10 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 
 <h2>
   Socials 
-  <a href="#-my-skill-sets--">
-    <img src = "https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif" width="50" height="50>
-  </a> 
 </h2>
+<a href="#-my-skill-sets--">
+    <img src = "https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif" width="50" height="50></a> 
+<br/>
 <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width ="60"></a> 
 
