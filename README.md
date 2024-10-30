@@ -112,11 +112,11 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <table align="center">
   <tr>
       <td align="center" width="90">
-       <img alt="Photoshop" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+       <img alt="Photoshop" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
         <br><h4>Photoshop</h4>
       </td>
       <td align="center" width="90">
-       <img alt="Illustrator" width="45" height="45" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+       <img alt="Illustrator" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" />
         <br><h4>Illustrator</h4>
       </td>
     <td align="center" width="90">
