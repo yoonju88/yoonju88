@@ -43,15 +43,15 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <a href="https://react.dev/" target="_blank"><img alt="React" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+      <a href="https://react.dev/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
       <br><h4>React</h4>
     </td>
    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
         <br><h4>Node.js</h4>
     </td>
    <td align="center" width="90">
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <br><h4>Redux</h4>
     </td>
     </td>
@@ -88,19 +88,19 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <table align="center">
   <tr>
     <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Github" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
+        <a href="https://github.com/" target="_blank"><img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
         <br>GitHub</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Vercel" width="45" height="45" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
+        <a href="https://github.com/" target="_blank"><img alt="Vercel" width="40" height="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
         <br><h4>Vercel</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://sass-lang.com" target="_blank"><img alt="Sass" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
+        <a href="https://sass-lang.com" target="_blank"><img alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
         <br><h4>Sass</h4>
     </td>
      <td align="center" width="90">
-        <a href="https://postman.com" target="_blank"><img alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
+        <a href="https://postman.com" target="_blank"><img alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
         <br><h4>Postman</h4>
     </td>
   </tr>
@@ -112,23 +112,28 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <table align="center">
   <tr>
       <td align="center" width="90">
-       <img alt="Photoshop" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
+      <a href="" target="_blank">
+       <img alt="Photoshop" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" /></a>
         <br><h4>Photoshop</h4>
       </td>
       <td align="center" width="90">
-       <img alt="Illustrator" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" />
+        <a href="" target="_blank">
+       <img alt="Illustrator" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" /></a>
         <br><h4>Illustrator</h4>
       </td>
     <td align="center" width="90">
-       <img alt="AfterEffect" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" />
+      <a href="" target="_blank">
+       <img alt="AfterEffect" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" /></a>
         <br><h4>AfterEffect</h4>
       </td>
       <td align="center" width="90">
-       <img alt="Canva" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
+        <a href="" target="_blank">
+       <img alt="Canva" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
         <br><h4>Canva</h4>
       </td>
       <td align="center" width="90">
-       <img alt="Figma" width="45" height="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+        <a href="" target="_blank">
+       <img alt="Figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
         <br><h4>Figma</h4>
       </td>   
   </tr>
@@ -137,11 +142,13 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <h2>
   Socials 
   <a href="#-my-skill-sets--">
-    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif](https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif" width = 32px>
+    <img src = "https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif" width = 32px>
   </a> 
 </h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yoonju-t) 
+<a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
+    <img src = "[https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" width = 32px></a> 
 
+    
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yoonju88&theme=dark&hide_border=false)<br/>
