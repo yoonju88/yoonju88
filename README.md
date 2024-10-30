@@ -92,7 +92,7 @@ A passionate frontend developer with a keen eye for detail and a love for creati
         <br>GitHub</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Vercel" width="45" height="45" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/" target="_blank"><img alt="Vercel" width="45" height="45" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
         <br><h4>Vercel</h4>
     </td>
     <td align="center" width="90">
