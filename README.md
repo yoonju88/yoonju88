@@ -142,7 +142,6 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <h3>
   Socials 
 </h3>
-<br/>
 <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width ="60"></a> 
 
