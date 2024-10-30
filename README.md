@@ -27,11 +27,11 @@ A passionate frontend developer with a keen eye for detail and a love for creati
         <br><h4>Typescript</h4>
     </td>
     <td align="center" width="90">
-        <img alt="CSS3" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+        <img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
         <br><h4>CSS3</h4>
     </td>
       <td align="center" width="90">
-        <img alt="HTML5" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+        <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
         <br><h4>HTML5</h4>
     </td>
   </tr>
@@ -56,15 +56,15 @@ A passionate frontend developer with a keen eye for detail and a love for creati
     </td>
     </td>
         <td align="center" width="90">
-        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
         <br><h4>Next.js</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
         <br><h4>Tailwind CSS</h4>
     </td> 
       <td align="center" width="90">
-        <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="45" height="45" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /></a>
+        <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /></a>
         <br><h4>Jest test</h4>
     </td> 
   </tr>
@@ -116,15 +116,15 @@ A passionate frontend developer with a keen eye for detail and a love for creati
         <br><h4>Photoshop</h4>
       </td>
       <td align="center" width="90">
-       <img alt="Illustrator" width="45" height="45" src="https://www.adobe.com/in/products/illustrator.html" />
+       <img alt="Illustrator" width="45" height="45" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
         <br><h4>Illustrator</h4>
       </td>
     <td align="center" width="90">
-       <img alt="AfterEffect" width="45" height="45" src=" " />
+       <img alt="AfterEffect" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" />
         <br><h4>AfterEffect</h4>
       </td>
       <td align="center" width="90">
-       <img alt="Canva" width="45" height="45" src=" " />
+       <img alt="Canva" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" />
         <br><h4>Canva</h4>
       </td>
       <td align="center" width="90">
