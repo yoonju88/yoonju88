@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="90">
         <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><p style="font-size:10px;" >Tailwind CSS</p>
+        <br><p font-size="10px" >Tailwind CSS</p>
     </td> 
       <td align="center" width="90">
         <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  width="35" height="35"/></a>
