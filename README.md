@@ -138,13 +138,18 @@
   </tr>
 </table>
 
-<h1 style="font-size: 2em; margin: 0;">
+<h1 style="font-size:2em; margin: 0;">
 SOCIAL 
 </h1>
 <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100" height="20"></a> 
+    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="15"></a> 
 
-<h2> Let’s connect and create something amazing together! <a><img href="https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" alt="work together" woidth="45"/></a> </h2>
+<h3 style="font-size:1em; margin: 0;">
+  Let’s connect and create something amazing together!
+   <a href="">
+    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 45px height = 40px>
+  </a> 
+</h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
