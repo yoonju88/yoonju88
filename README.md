@@ -79,8 +79,8 @@
         <br><p style="font-size: 1em; margin: 0;">MongoDB</p>
     </td>
     <td align="center" width="90">
-        <a href="https://www.mongodb.com/" target="_blank"><img alt="supabase" width="35" height="35" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" /></a>
-        <br><p style="font-size: 1em; margin: 0;">supabase</p>
+        <a href="https://www.mongodb.com/" target="_blank"><img alt="supabase" width="35" height="35" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/></a>
+        <br><p style="font-size: 12; margin: 0;">Supabase</p>
     </td>
   </tr>
 </table>
