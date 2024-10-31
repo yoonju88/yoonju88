@@ -2,7 +2,7 @@
 <br/>
 <h1 style="font-size: 2em; margin: 0;">
   <a href="#--about-me--">
-    <img src = "https://i.pinimg.com/originals/93/e4/e5/93e4e540f3500751660931d2d9c728e0.gif" width = 45px height = 40px>
+    <img src = "https://media.tenor.com/kh8uPhgWG8EAAAAi/cat-sticker-line-sticker.gif" width = 45px height = 40px>
   </a>
   ABOUT ME
 </h1>  
@@ -10,7 +10,7 @@
 <br/>
 <h1 style="font-size: 2em;">
   <a href="#-my-skill-sets--">
-    <img src = "https://i.pinimg.com/originals/e7/4d/c0/e74dc09f76c274d077fc833871ef7f97.gif" width = 45px height = 40px>
+    <img src = "hhttps://media.tenor.com/nSYuBMLsck8AAAAi/cute.gif" width = 45px height = 40px>
   </a> 
   SKILLS
 </h1>
