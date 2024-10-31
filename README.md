@@ -186,7 +186,7 @@
 ###
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://i.pinimg.com/originals/ba/ec/82/baec8277777de78c91789db4a7684cbe.gif" width =40px height = 40px>
+    <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =40px height = 40px>
   </a>
   My GitHub State 
 </h1>  
