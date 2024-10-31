@@ -20,19 +20,19 @@ A passionate frontend developer with a keen eye for detail and a love for creati
   <tr>
     <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><h4>Javascript</h4>
+        <br><p>Javascript</p>
     </td>
     <td align="center" width="90">
         <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br><h4>Typescript</h4>
+        <br><p>Typescript</p>
     </td>
     <td align="center" width="90">
         <img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-        <br><h4>CSS3</h4>
+        <br><p>CSS3</p>
     </td>
       <td align="center" width="90">
         <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-        <br><h4>HTML5</h4>
+        <br><p>HTML5</p>
     </td>
   </tr>
 </table>
@@ -44,28 +44,28 @@ A passionate frontend developer with a keen eye for detail and a love for creati
   <tr>
     <td align="center" width="90">
       <a href="https://react.dev/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-      <br><h4>React</h4>
+      <br><p>React</p>
     </td>
    <td align="center" width="90">
         <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><h4>Node.js</h4>
+        <br><p>Node.js</p>
     </td>
    <td align="center" width="90">
       <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-    <br><h4>Redux</h4>
+    <br><p>Redux</p>
     </td>
     </td>
         <td align="center" width="90">
         <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br><h4>Next.js</h4>
+        <br><p>Next.js</p>
     </td>
     <td align="center" width="90">
         <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><h4>Tailwind CSS</h4>
+        <br><p>Tailwind CSS</p>
     </td> 
       <td align="center" width="90">
         <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /></a>
-        <br><h4>Jest test</h4>
+        <br><p>Jest</p>
     </td> 
   </tr>
 </table>
@@ -77,7 +77,7 @@ A passionate frontend developer with a keen eye for detail and a love for creati
   <tr>
     <td align="center" width="90">
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-        <br><h4>MongoDB</h4>
+        <br><p>MongoDB</p>
     </td>
   </tr>
 </table>
@@ -89,19 +89,19 @@ A passionate frontend developer with a keen eye for detail and a love for creati
   <tr>
     <td align="center" width="90">
         <a href="https://github.com/" target="_blank"><img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
-        <br>GitHub</h4>
+        <p>GitHub</p>
     </td>
     <td align="center" width="90">
         <a href="https://github.com/" target="_blank"><img alt="Vercel" width="40" height="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
-        <br><h4>Vercel</h4>
+        <br><p>Vercel</p>
     </td>
     <td align="center" width="90">
         <a href="https://sass-lang.com" target="_blank"><img alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
-        <br><h4>Sass</h4>
+        <br><p>Sass</p>
     </td>
      <td align="center" width="90">
         <a href="https://postman.com" target="_blank"><img alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
-        <br><h4>Postman</h4>
+        <br><p>Postman</p>
     </td>
   </tr>
 </table>
@@ -114,27 +114,27 @@ A passionate frontend developer with a keen eye for detail and a love for creati
       <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="Photoshop" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" /></a>
-        <br><h4>Photoshop</h4>
+        <br><p>Photoshop</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Illustrator" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" /></a>
-        <br><h4>Illustrator</h4>
+        <br><p>Illustrator</p>
       </td>
     <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="AfterEffect" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" /></a>
-        <br><h4>AfterEffect</h4>
+        <br><p>AfterEffect</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Canva" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
-        <br><h4>Canva</h4>
+        <br><p>Canva</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
-        <br><h4>Figma</h4>
+        <br><p>Figma</p>
       </td>   
   </tr>
 </table>
@@ -151,7 +151,7 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<h2> Let’s connect and create something amazing together!  
+<h2> Let’s connect and create something amazing together!   
 </h2>
 
  
