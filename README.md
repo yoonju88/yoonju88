@@ -94,11 +94,11 @@
 <table >
   <tr>
     <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
+        <a href="https://github.com/" target="_blank"><img alt="Github" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
         <p>GitHub</p>
     </td>
     <td align="center" width="90">
-        <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="35" height="35" src="https://www.netcost-security.fr/wp-content/uploads/2022/10/Visual-Studio-Code-est-un-editeur-de-code-solide-pour.png"/></a>
+        <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="32" height="30" src="https://www.netcost-security.fr/wp-content/uploads/2022/10/Visual-Studio-Code-est-un-editeur-de-code-solide-pour.png"/></a>
         <br><p>VSC</p>
     </td>
      <td align="center" width="90">
@@ -133,7 +133,7 @@
         <br><p>Vercel</p>
       </td>
       <td align="center" width="90">
-        <a href="https://render.com" target="_blank"><img alt="Render" width="35" height="35" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" /></a>
+        <a href="https://render.com" target="_blank"><img alt="Render" width="32" height="32" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" /></a>
         <br><p>Render</p>
       </td>
   </tr>
