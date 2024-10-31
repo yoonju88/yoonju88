@@ -181,9 +181,8 @@
   <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a> 
-
-
-###
+<br/>
+<br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
     <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =50px>
