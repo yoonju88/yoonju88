@@ -38,7 +38,7 @@
   </tr>
 </table>
 <h3 style="font-size: 1.5em; margin: 0;">
-  FrameWork
+  Web Application Development Stack
 </h3>
 <table>
   <tr>
