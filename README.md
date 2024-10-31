@@ -150,10 +150,10 @@ SOCIAL
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<div style="display:flex; flex-direction:row; align-items:center;">
+
 <h2> Let’s connect and create something amazing together!   </h2>
 <img href="https://i.pinimg.com/originals/da/b7/fa/dab7faa8389d5a0a6db58368adff0856.gif" alt="work together" woidth="45"/>
-</div>
+
  
  
 
