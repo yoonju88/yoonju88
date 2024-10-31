@@ -21,19 +21,19 @@
   <tr>
      <td align="center" width="90">
         <img alt="HTML5" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-        <br><p style="font-size: 1em; margin: 0;">HTML5</p>
+        <br><p>HTML5</p>
     </td>
      <td align="center" width="90">
         <img alt="CSS3" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-        <br><p style="font-size: 1em; margin: 0;">CSS3</p>
+        <br><p>CSS3</p>
     </td>
     <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Javascript</p>
+        <br><p>Javascript</p>
     </td>
     <td align="center" width="90">
         <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Typescript</p>
+        <br><p>Typescript</p>
     </td> 
   </tr>
 </table>
@@ -44,28 +44,28 @@
   <tr>
     <td align="center" width="90">
       <a href="https://react.dev/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-      <br><p style="font-size: 1em; margin: 0;">React</p>
+      <br><p>React</p>
     </td>
    <td align="center" width="90">
         <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="35" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Node.js</p>
+        <br><p>Node.js</p>
     </td>
    <td align="center" width="90">
       <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/> </a>
-    <br><p style="font-size: 1em; margin: 0;">Redux</p>
+    <br><p>Redux</p>
     </td>
     </td>
         <td align="center" width="90">
         <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Next.js</p>
+        <br><p>Next.js</p>
     </td>
     <td align="center" width="90">
         <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Tailwind CSS</p>
+        <br><p>Tailwind CSS</p>
     </td> 
       <td align="center" width="90">
         <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  width="35" height="35"/></a>
-        <br><p style="font-size: 1em; margin: 0;">Jest</p>
+        <br><p>Jest</p>
     </td> 
   </tr>
 </table>
@@ -76,11 +76,11 @@
   <tr>
     <td align="center" width="90">
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-        <br><p style="font-size: 1em; margin: 0;">MongoDB</p>
+        <br><p>MongoDB</p>
     </td>
     <td align="center" width="90">
-        <a href="https://www.mongodb.com/" target="_blank"><img alt="supabase" width="35" height="35" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/></a>
-        <br><p style="font-size: 12; margin: 0;">Supabase</p>
+        <a href="https://supabase.com/" target="_blank"><img alt="supabase" width="35" height="35" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/></a>
+        <br><p>Supabase</p>
     </td>
   </tr>
 </table>
@@ -91,19 +91,19 @@
   <tr>
     <td align="center" width="90">
         <a href="https://github.com/" target="_blank"><img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
-        <p style="font-size: 1em; margin: 0;">GitHub</p>
+        <p>GitHub</p>
     </td>
     <td align="center" width="90">
         <a href="https://sass-lang.com" target="_blank"><img alt="Sass" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Sass</p>
+        <br><p>Sass</p>
     </td>
      <td align="center" width="90">
         <a href="https://postman.com" target="_blank"><img alt="postman" width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
-        <br><p style="font-size: 1em; margin: 0;">Postman</p>
+        <br><p>Postman</p>
     </td>
     <td align="center" width="90">
         <a href="https://swagger.io/" target="_blank"><img alt="Swagger" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/></a>
-        <br><p style="font-size: 1em; margin: 0;">Swagger</p>
+        <br><p>Swagger</p>
     </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@
       <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="Clerk" width="35" height="35" src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Clerk</p>
+        <br><p>Clerk</p>
       </td>
   </tr>
 </table>
@@ -126,11 +126,11 @@
   <tr>
       <td align="center" width="90">
         <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Vercel</p>
+        <br><p>Vercel</p>
       </td>
       <td align="center" width="90">
         <a href="https://render.com" target="_blank"><img alt="Render" width="35" height="35" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Render</p>
+        <br><p>Render</p>
       </td>
   </tr>
 </table>
@@ -142,27 +142,27 @@
       <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="Photoshop" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Photoshop</p>
+        <br><p>Photoshop</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Illustrator" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Illustrator</p>
+        <br><p>Illustrator</p>
       </td>
     <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="AfterEffect" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" /></a>
-        <br><p style="font-size: 1em; margin: 0;">AfterEffect</p>
+        <br><p>AfterEffect</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Canva" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Canva</p>
+        <br><p>Canva</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Figma" width="35" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Figma</p>
+        <br><p>Figma</p>
       </td>   
   </tr>
 </table>
