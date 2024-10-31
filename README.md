@@ -170,8 +170,6 @@
       </td>   
   </tr>
 </table>
-<br/>
-<br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
     <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =50px>
