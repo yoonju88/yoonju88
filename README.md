@@ -10,7 +10,7 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <h2>
   My Skill Sets
   <a href="#-my-skill-sets--">
-    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px>
+    <img src = "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width = 32px>
   </a> 
 </h2>
 <h3>
