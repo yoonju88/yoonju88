@@ -94,8 +94,8 @@
         <p>GitHub</p>
     </td>
     <td align="center" width="90">
-        <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s"/></a>
-        <br><p>Visual Studio Code</p>
+        <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="35" height="35" src="https://www.netcost-security.fr/wp-content/uploads/2022/10/Visual-Studio-Code-est-un-editeur-de-code-solide-pour.png"/></a>
+        <br><p>VSC</p>
     </td>
      <td align="center" width="90">
         <a href="https://postman.com" target="_blank"><img alt="postman" width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
