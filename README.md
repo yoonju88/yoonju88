@@ -6,6 +6,7 @@
   ABOUT ME
 </h1>  
 <p style="font-size: 1em; margin: 0;">A passionate frontend developer with a keen eye for detail and a love for creating beautiful, responsive, and user-friendly applications.</p>
+<br/>
 <h1 style="font-size: 2em; ">
   <a href="#-my-skill-sets--">
     <img src = "https://i.pinimg.com/originals/e7/4d/c0/e74dc09f76c274d077fc833871ef7f97.gif" width = 45px height = 40px>
@@ -35,7 +36,6 @@
     </td> 
   </tr>
 </table>
-
 <h3 style="font-size: 1.5em; margin: 0;">
   FrameWork
 </h3>
@@ -68,7 +68,6 @@
     </td> 
   </tr>
 </table>
-
 <h3 style="font-size: 1.5em; margin: 0;">
   Database
 </h3>
@@ -80,7 +79,6 @@
     </td>
   </tr>
 </table>
-
 <h3 style="font-size: 1.5em; margin: 0;">
   Tools
 </h3>
@@ -104,7 +102,6 @@
     </td>
   </tr>
 </table>
-
 <h3 style="font-size: 1.5em; margin: 0;">
   Visual 
 </h3>
@@ -147,13 +144,15 @@ SOCIAL
 <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a> 
-
+<br/>
 <h3 style="font-size:1em;">
    <a href="">
     <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px height = 45px>
   </a> 
   Let’s connect and create something amazing together!
 </h3>
+<br/>
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
