@@ -174,7 +174,7 @@
 <br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 100px height = 120px>
+    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 45px height = 40px>
   </a> 
   Let’s connect and create something amazing together!
 </h1>
@@ -185,10 +185,10 @@
 
 ###
 <h1 style="font-size:1em;">
-  My GitHub State
   <a href="" align="center">
     <img src = "https://i.pinimg.com/originals/ba/ec/82/baec8277777de78c91789db4a7684cbe.gif" width =40px height = 40px>
-  </a> 
+  </a>
+  My GitHub State 
 </h1>  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoonju88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
