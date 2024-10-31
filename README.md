@@ -64,7 +64,7 @@
         <br><p>TailwindCSS</p>
     </td> 
       <td align="center" width="90">
-        <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="35" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  width="35" height="35"/></a>
+        <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="35" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/></a>
         <br><p>Jest</p>
     </td> 
   </tr>
