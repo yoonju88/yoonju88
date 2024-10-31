@@ -195,19 +195,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonju88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/yoonju88/yoonju88/output/snake.svg" alt="Snake animation" />
-
 ###
 <h1 style="font-size:1em;">
     <a href="" align="center">
-    <img src = "https://media.tenor.com/D_si8GTbHK8AAAAi/cat-cats.gif" width =55px>
+    <img src = "https://media.tenor.com/2m4l360ccV4AAAAi/heart.gif" width =55px>
   </a>
    Profile views
 </h1> 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yoonju88/count.svg?"  />
 </div>
-
 ###
 
 
