@@ -200,7 +200,7 @@
 ###
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media1.tenor.com/m/zv7WDV42Oz8AAAAC/goma-peach.gif" width =40px height = 40px>
+    <img src = "https://media.tenor.com/RcIB2OUrsM4AAAAj/cat-love.gif" width =40px height = 40px>
   </a>
   Profile views
 </h1> 
