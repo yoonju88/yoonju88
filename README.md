@@ -171,10 +171,25 @@
   </tr>
 </table>
 <br/>
+<br/>
+<h1 style="font-size:1em;">
+  <a href="" align="center">
+    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 100px height = 120px>
+  </a> 
+  Let’s connect and create something amazing together!
+</h1>
+  <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
+    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a> 
 
 
 ###
-
+<h1 style="font-size:1em;">
+  My GitHub State
+  <a href="" align="center">
+    <img src = "https://i.pinimg.com/originals/ba/ec/82/baec8277777de78c91789db4a7684cbe.gif" width =40px height = 40px>
+  </a> 
+</h1>  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoonju88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonju88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -189,15 +204,7 @@
 </div>
 
 ###
-<h1 style="font-size:1em; align: center;">
-  <a href="" align="center">
-    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 100px height = 120px>
-  </a> 
-  Let’s connect and create something amazing together!
-</h1>
-  <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a> 
+
 
 
 
