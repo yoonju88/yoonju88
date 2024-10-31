@@ -6,13 +6,13 @@
   About Me
 </h1>  
 <p style="font-size: 1em; margin: 0;">A passionate frontend developer with a keen eye for detail and a love for creating beautiful, responsive, and user-friendly applications.</p>
-<h2 style="font-size: 1.5em; margin: 0;">
+<h2 style="font-size: 2em; margin: 0;">
   <a href="#-my-skill-sets--">
-    <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 100px>
+    <img src = "https://i.pinimg.com/originals/e7/4d/c0/e74dc09f76c274d077fc833871ef7f97.gif" width = 100px>
   </a> 
   My Skill Sets
 </h2>
-<h3>
+<h3 style="font-size: 1.5em; margin: 0;">
   Languages
 </h3>
 <table align="center">
