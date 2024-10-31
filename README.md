@@ -8,7 +8,7 @@
 <p style="font-size: 1em; margin: 0;">A passionate frontend developer with a keen eye for detail and a love for creating beautiful, responsive, and user-friendly applications.</p>
 <h1 style="font-size: 2em; margin: 0;">
   <a href="#-my-skill-sets--">
-    <img src = "https://i.pinimg.com/originals/e7/4d/c0/e74dc09f76c274d077fc833871ef7f97.gif" width = 45px>
+    <img src = "https://i.pinimg.com/originals/e7/4d/c0/e74dc09f76c274d077fc833871ef7f97.gif" width = 45px height = 40px>
   </a> 
   SKILLS
 </h1>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<h3>
+<h3 style="font-size: 1.5em; margin: 0;">
   FrameWork
 </h3>
 <table>
@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-<h3>
+<h3 style="font-size: 1.5em; margin: 0;">
   Database
 </h3>
 <table>
@@ -81,7 +81,7 @@
   </tr>
 </table>
 
-<h3>
+<h3 style="font-size: 1.5em; margin: 0;">
   Tools
 </h3>
 <table >
@@ -105,7 +105,7 @@
   </tr>
 </table>
 
-<h3>
+<h3 style="font-size: 1.5em; margin: 0;">
   Visual 
 </h3>
 <table>
@@ -152,7 +152,7 @@ SOCIAL
 ---
 <div style="display:flex; flex-direction:row; align-items:center;">
 <h2> Let’s connect and create something amazing together!   </h2>
-<img href="https://i.pinimg.com/originals/da/b7/fa/dab7faa8389d5a0a6db58368adff0856.gif" alt="work together" woidth="50"/>
+<img href="https://i.pinimg.com/originals/da/b7/fa/dab7faa8389d5a0a6db58368adff0856.gif" alt="work together" woidth="45"/>
 </div>
  
  
