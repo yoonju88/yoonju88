@@ -10,7 +10,7 @@
 <br/>
 <h1 style="font-size: 2em;">
   <a href="#-my-skill-sets--">
-    <img src = "hhttps://media.tenor.com/nSYuBMLsck8AAAAi/cute.gif" width = 45px height = 40px>
+    <img src = "https://media.tenor.com/1re8tSKaslIAAAAi/peach-cat-goma.gif" width = 45px height = 40px>
   </a> 
   SKILLS
 </h1>
@@ -198,7 +198,12 @@
 <img src="https://raw.githubusercontent.com/yoonju88/yoonju88/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<h1 style="font-size:1em;">
+  <a href="" align="center">
+    <img src = "https://media1.tenor.com/m/zv7WDV42Oz8AAAAC/goma-peach.gif" width =40px height = 40px>
+  </a>
+  Profile views
+</h1> 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yoonju88/count.svg?"  />
 </div>
