@@ -6,7 +6,7 @@
   ABOUT ME
 </h1>  
 <p style="font-size: 1em; margin: 0;">A passionate frontend developer with a keen eye for detail and a love for creating beautiful, responsive, and user-friendly applications.</p>
-<h1 style="font-size: 2em; margin: 0;">
+<h1 style="font-size: 2em; ">
   <a href="#-my-skill-sets--">
     <img src = "https://i.pinimg.com/originals/e7/4d/c0/e74dc09f76c274d077fc833871ef7f97.gif" width = 45px height = 40px>
   </a> 
@@ -137,8 +137,7 @@
       </td>   
   </tr>
 </table>
-
-<h1 style="font-size:2em; margin: 0;">
+<h1 style="font-size:2em;">
    <a href="">
     <img src = "https://i.pinimg.com/originals/52/d0/60/52d06065a31aa6e7b03d512628b3f008.gif" width = 50px height = 45px>
   </a> 
@@ -148,7 +147,7 @@ SOCIAL
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a> 
 
-<h3 style="font-size:1em; margin: 0;">
+<h3 style="font-size:1em;">
   Let’s connect and create something amazing together!
    <a href="">
     <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px height = 45px>
