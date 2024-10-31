@@ -151,7 +151,7 @@ SOCIAL
 
 ---
 
-<h2> Let’s connect and create something amazing together! <img href="https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" alt="work together" woidth="45"/> </h2>
+<h2> Let’s connect and create something amazing together! <a><img href="https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" alt="work together" woidth="45"/></a> </h2>
 
 
  
