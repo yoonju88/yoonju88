@@ -98,7 +98,7 @@
         <p>GitHub</p>
     </td>
     <td align="center" width="90">
-        <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="32" height="30" src="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"/></a>
+        <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="32" height="30" src="https://media1.tenor.com/m/YWuE4HKmuzIAAAAC/visual-studio-code.gif"/></a>
         <br><p>VSC</p>
     </td>
      <td align="center" width="90">
