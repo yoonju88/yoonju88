@@ -171,23 +171,16 @@
   </tr>
 </table>
 <br/>
-<h1 style="font-size:2em;">
-   <a href="">
-    <img src = "https://i.pinimg.com/originals/52/d0/60/52d06065a31aa6e7b03d512628b3f008.gif" width = 50px height = 45px>
-  </a> 
-SOCIAL 
-</h1>
-<a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a> 
 <br/>
-<br/>
-<h3 style="font-size:1em;">
+<h1 style="font-size:1em;">
    <a href="">
     <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px height = 45px>
   </a> 
   Let’s connect and create something amazing together!
-</h3>
+</h1>
+<a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
+    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a> 
 <br/>
 
 
