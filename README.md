@@ -185,6 +185,15 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <br/>
+<div>
+  <h1 style="font-size:1em;">
+  <a href="" align="center">
+    <img src = "https://media.tenor.com/3uGzDrVIe0kAAAAi/cat-meme.gif" width =50px>
+  </a>
+  Work flows 
+</h1> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
 <h1 style="font-size:1em;">
     <a href="" align="center">
     <img src = "https://media.tenor.com/2m4l360ccV4AAAAi/heart.gif" width =55px>
@@ -204,6 +213,9 @@
   <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a> 
+
+
+
 
 
 
