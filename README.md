@@ -47,11 +47,11 @@
       <br><p>React</p>
     </td>
    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="35" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="32" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
         <br><p>Node.js</p>
     </td>
    <td align="center" width="90">
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/> </a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="35"/> </a>
     <br><p>Redux</p>
     </td>
     </td>
