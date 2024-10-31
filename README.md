@@ -2,7 +2,7 @@
 <br/>
 <h1 style="font-size: 2em; margin: 0;">
   <a href="#--about-me--">
-    <img src = "https://media.tenor.com/kh8uPhgWG8EAAAAi/cat-sticker-line-sticker.gif" width = 45px height = 40px>
+    <img src = "https://media.tenor.com/kh8uPhgWG8EAAAAi/cat-sticker-line-sticker.gif" width = 50px>
   </a>
   ABOUT ME
 </h1>  
@@ -10,7 +10,7 @@
 <br/>
 <h1 style="font-size: 2em;">
   <a href="#-my-skill-sets--">
-    <img src = "https://media.tenor.com/1re8tSKaslIAAAAi/peach-cat-goma.gif" width = 45px height = 40px>
+    <img src = "https://media.tenor.com/1re8tSKaslIAAAAi/peach-cat-goma.gif" width = 50px >
   </a> 
   SKILLS
 </h1>
@@ -174,7 +174,7 @@
 <br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 45px height = 40px>
+    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px>
   </a> 
   Let’s connect and create something amazing together!
 </h1>
@@ -186,7 +186,7 @@
 ###
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =40px height = 40px>
+    <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =50px>
   </a>
   My GitHub State 
 </h1>  
@@ -200,7 +200,7 @@
 ###
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/RcIB2OUrsM4AAAAj/cat-love.gif" width =40px height = 40px>
+    <img src = "https://media.tenor.com/RcIB2OUrsM4AAAAj/cat-love.gif" width =50px>
   </a>
   Profile views
 </h1> 
