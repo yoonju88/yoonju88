@@ -145,7 +145,8 @@
 SOCIAL 
 </h1>
 <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="15"></a> 
+    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a> 
 
 <h3 style="font-size:1em; margin: 0;">
   Let’s connect and create something amazing together!
