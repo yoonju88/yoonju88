@@ -18,7 +18,7 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 </h3>
 <table align="center">
   <tr>
-    <td align="start" width="90">
+    <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
         <br><p font-size="12px">Javascript</p>
     </td>
