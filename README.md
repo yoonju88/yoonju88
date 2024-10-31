@@ -79,11 +79,11 @@
         <br><p>MongoDB</p>
     </td>
     <td align="center" width="90">
-        <a href="https://supabase.com/" target="_blank"><img alt="Supabase" width="35" height="35" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" /></a>
+        <a href="https://supabase.com/" target="_blank"><img alt="Supabase" width="30" height="32" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" /></a>
         <p>Supabase</p>
     </td>
      <td align="center" width="90">
-        <a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" width="35" height="35" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" /></a>
+        <a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" width="32" height="32" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" /></a>
         <p>Prisma</p>
     </td>
   </tr>
