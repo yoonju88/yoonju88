@@ -143,6 +143,11 @@
 </h3>
 <table>
   <tr>
+    <td align="center" width="90">
+        <a href="" target="_blank">
+       <img alt="Figma" width="35" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
+        <br><p>Figma</p>
+      </td>
       <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="Photoshop" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" /></a>
@@ -162,11 +167,6 @@
         <a href="" target="_blank">
        <img alt="Canva" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
         <br><p>Canva</p>
-      </td>
-      <td align="center" width="90">
-        <a href="" target="_blank">
-       <img alt="Figma" width="35" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
-        <br><p>Figma</p>
       </td>   
   </tr>
 </table>
