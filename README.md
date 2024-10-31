@@ -15,23 +15,23 @@
 <h3 style="font-size: 1.5em; margin: 0;">
   Languages
 </h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><p font-size="12px">Javascript</p>
+        <br><p style="font-size: 1em; margin: 0;">Javascript</p>
     </td>
     <td align="center" width="90">
         <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br><p>Typescript</p>
+        <br><p style="font-size: 1em; margin: 0;">Typescript</p>
     </td>
     <td align="center" width="90">
         <img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-        <br><p>CSS3</p>
+        <br><p style="font-size: 1em; margin: 0;">CSS3</p>
     </td>
       <td align="center" width="90">
         <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-        <br><p>HTML5</p>
+        <br><p style="font-size: 1em; margin: 0;">HTML5</p>
     </td>
   </tr>
 </table>
@@ -39,32 +39,32 @@
 <h3>
   FrameWork
 </h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <a href="https://react.dev/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-      <br><p>React</p>
+      <br><p style="font-size: 1em; margin: 0;">React</p>
     </td>
    <td align="center" width="90">
         <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><p>Node.js</p>
+        <br><p style="font-size: 1em; margin: 0;">Node.js</p>
     </td>
    <td align="center" width="90">
       <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-    <br><p>Redux</p>
+    <br><p style="font-size: 1em; margin: 0;">Redux</p>
     </td>
     </td>
         <td align="center" width="90">
         <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br><p>Next.js</p>
+        <br><p style="font-size: 1em; margin: 0;">Next.js</p>
     </td>
     <td align="center" width="90">
         <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><p>Tailwind CSS</p>
+        <br><p style="font-size: 1em; margin: 0;">Tailwind CSS</p>
     </td> 
       <td align="center" width="90">
         <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /></a>
-        <br><p>Jest</p>
+        <br><p style="font-size: 1em; margin: 0;">Jest</p>
     </td> 
   </tr>
 </table>
@@ -72,11 +72,11 @@
 <h3>
   Database
 </h3>
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-        <br><p>MongoDB</p>
+        <br><p style="font-size: 1em; margin: 0;">MongoDB</p>
     </td>
   </tr>
 </table>
@@ -84,23 +84,23 @@
 <h3>
   Tools
 </h3>
-<table align="center">
+<table >
   <tr>
     <td align="center" width="90">
         <a href="https://github.com/" target="_blank"><img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
-        <p>GitHub</p>
+        <p style="font-size: 1em; margin: 0;">GitHub</p>
     </td>
     <td align="center" width="90">
         <a href="https://github.com/" target="_blank"><img alt="Vercel" width="40" height="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
-        <br><p>Vercel</p>
+        <br><p style="font-size: 1em; margin: 0;">Vercel</p>
     </td>
     <td align="center" width="90">
         <a href="https://sass-lang.com" target="_blank"><img alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
-        <br><p>Sass</p>
+        <br><p style="font-size: 1em; margin: 0;">Sass</p>
     </td>
      <td align="center" width="90">
         <a href="https://postman.com" target="_blank"><img alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
-        <br><p>Postman</p>
+        <br><p style="font-size: 1em; margin: 0;">Postman</p>
     </td>
   </tr>
 </table>
@@ -108,32 +108,32 @@
 <h3>
   Visual 
 </h3>
-<table align="center">
+<table>
   <tr>
       <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="Photoshop" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" /></a>
-        <br><p>Photoshop</p>
+        <br><p style="font-size: 1em; margin: 0;">Photoshop</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Illustrator" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" /></a>
-        <br><p>Illustrator</p>
+        <br><p style="font-size: 1em; margin: 0;">Illustrator</p>
       </td>
     <td align="center" width="90">
       <a href="" target="_blank">
        <img alt="AfterEffect" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" /></a>
-        <br><p>AfterEffect</p>
+        <br><p style="font-size: 1em; margin: 0;">AfterEffect</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Canva" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
-        <br><p>Canva</p>
+        <br><p style="font-size: 1em; margin: 0;">Canva</p>
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
        <img alt="Figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
-        <br><p>Figma</p>
+        <br><p style="font-size: 1em; margin: 0;">Figma</p>
       </td>   
   </tr>
 </table>
@@ -150,9 +150,10 @@ SOCIAL
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonju88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<h2> Let’s connect and create something amazing together!   
-</h2>
-
+<div style="display:flex; flex-direction:row; align-items:center;">
+<h2> Let’s connect and create something amazing together!   </h2>
+<img href="https://i.pinimg.com/originals/da/b7/fa/dab7faa8389d5a0a6db58368adff0856.gif" alt="work together" woidth="50"/>
+</div>
  
  
 
