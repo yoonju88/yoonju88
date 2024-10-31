@@ -47,7 +47,7 @@
       <br><p style="font-size: 1em; margin: 0;">React</p>
     </td>
    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="35" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
         <br><p style="font-size: 1em; margin: 0;">Node.js</p>
     </td>
    <td align="center" width="90">
@@ -78,6 +78,10 @@
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
         <br><p style="font-size: 1em; margin: 0;">MongoDB</p>
     </td>
+    <td align="center" width="90">
+        <a href="https://www.mongodb.com/" target="_blank"><img alt="supabase" width="35" height="35" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" /></a>
+        <br><p style="font-size: 1em; margin: 0;">supabase</p>
+    </td>
   </tr>
 </table>
 <h3 style="font-size: 1.5em; margin: 0;">
@@ -90,10 +94,6 @@
         <p style="font-size: 1em; margin: 0;">GitHub</p>
     </td>
     <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Vercel" width="35" height="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
-        <br><p style="font-size: 1em; margin: 0;">Vercel</p>
-    </td>
-    <td align="center" width="90">
         <a href="https://sass-lang.com" target="_blank"><img alt="Sass" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
         <br><p style="font-size: 1em; margin: 0;">Sass</p>
     </td>
@@ -101,6 +101,37 @@
         <a href="https://postman.com" target="_blank"><img alt="postman" width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
         <br><p style="font-size: 1em; margin: 0;">Postman</p>
     </td>
+    <td align="center" width="90">
+        <a href="https://swagger.io/" target="_blank"><img alt="Swagger" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/></a>
+        <br><p style="font-size: 1em; margin: 0;">Swagger</p>
+    </td>
+  </tr>
+</table>
+<h3 style="font-size: 1.5em; margin: 0;">
+  Authentification 
+</h3>
+<table>
+  <tr>
+      <td align="center" width="90">
+      <a href="" target="_blank">
+       <img alt="Clerk" width="35" height="35" src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" /></a>
+        <br><p style="font-size: 1em; margin: 0;">Clerk</p>
+      </td>
+  </tr>
+</table>
+<h3 style="font-size: 1.5em; margin: 0;">
+  Deployment 
+</h3>
+<table>
+  <tr>
+      <td align="center" width="90">
+        <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
+        <br><p style="font-size: 1em; margin: 0;">Vercel</p>
+      </td>
+      <td align="center" width="90">
+        <a href="https://render.com" target="_blank"><img alt="Render" width="35" height="35" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" /></a>
+        <br><p style="font-size: 1em; margin: 0;">Render</p>
+      </td>
   </tr>
 </table>
 <h3 style="font-size: 1.5em; margin: 0;">
