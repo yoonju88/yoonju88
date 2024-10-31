@@ -125,7 +125,7 @@
 <table>
   <tr>
       <td align="center" width="90">
-        <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://www.svgrepo.com/show/361653/vercel-logo.svg" /></a>
+        <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest/scale-to-width-down/250?cb=20221026155821" /></a>
         <br><p>Vercel</p>
       </td>
       <td align="center" width="90">
