@@ -199,10 +199,10 @@
 
 ###
 <h1 style="font-size:1em;">
-  <a href="" align="center">
-    <img src = "https://media.tenor.com/RcIB2OUrsM4AAAAj/cat-love.gif" width =50px>
+   Profile views
+   <a href="" align="center">
+    <img src = "https://media.tenor.com/RcIB2OUrsM4AAAAj/cat-love.gif" width =55px>
   </a>
-  Profile views
 </h1> 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yoonju88/count.svg?"  />
