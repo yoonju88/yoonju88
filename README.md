@@ -174,17 +174,6 @@
 <br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px>
-  </a> 
-  Let’s connect and create something amazing together!
-</h1>
-  <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a> 
-<br/>
-
-<h1 style="font-size:1em;">
-  <a href="" align="center">
     <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =50px>
   </a>
   My GitHub State 
@@ -203,6 +192,17 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/yoonju88/count.svg?"  />
 </div>
+<br/>
+<h1 style="font-size:1em;">
+  <a href="" align="center">
+    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px>
+  </a> 
+  Let’s connect and create something amazing together!
+</h1>
+  <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
+    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a> 
+
 
 
 
