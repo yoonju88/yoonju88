@@ -139,7 +139,7 @@
   </tr>
 </table>
 <h3 style="font-size: 1.5em; margin: 0;">
-  Visual 
+  Visual Design
 </h3>
 <table>
   <tr>
