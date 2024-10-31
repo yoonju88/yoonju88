@@ -10,7 +10,7 @@ A passionate frontend developer with a keen eye for detail and a love for creati
 <h2>
   My Skill Sets
   <a href="#-my-skill-sets--">
-    <img src = "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width = 50px>
+    <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 50px>
   </a> 
 </h2>
 <h3>
