@@ -151,8 +151,8 @@ SOCIAL
 
 ---
 
-<h2> Let’s connect and create something amazing together!   </h2>
-<img href="https://i.pinimg.com/originals/da/b7/fa/dab7faa8389d5a0a6db58368adff0856.gif" alt="work together" woidth="45"/>
+<h2> Let’s connect and create something amazing together! <img href="https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" alt="work together" woidth="45"/> </h2>
+
 
  
  
