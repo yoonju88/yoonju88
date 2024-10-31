@@ -194,12 +194,11 @@
     <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 100px height = 120px>
   </a> 
   Let’s connect and create something amazing together!
+</h1>
   <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a> 
-</h1>
 
-<br/>
 
 
 
