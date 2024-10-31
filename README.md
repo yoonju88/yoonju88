@@ -182,7 +182,7 @@
     <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a> 
 <br/>
-<br/>
+
 <h1 style="font-size:1em;">
   <a href="" align="center">
     <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =50px>
@@ -194,7 +194,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonju88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br/>
-###
 <h1 style="font-size:1em;">
     <a href="" align="center">
     <img src = "https://media.tenor.com/2m4l360ccV4AAAAi/heart.gif" width =55px>
