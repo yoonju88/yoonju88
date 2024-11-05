@@ -10,7 +10,7 @@
 <br/>
 <h1 style="font-size: 2em;">
   <a href="#-my-skill-sets--">
-    <img src = "https://media.tenor.com/1re8tSKaslIAAAAi/peach-cat-goma.gif" width = 50px >
+    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nb2o3cm5id2wybnYwZjU0NWU2aG1ldHg0djN3OXFjbHEwYWxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width = 50px >
   </a> 
   SKILLS
 </h1>
