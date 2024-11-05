@@ -194,7 +194,7 @@
 <br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/JL0YrycH2gkAAAAj/peach-goma-crate-orange.gif" width = 50px>
+    <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR4czh3YWUxcmpldDUxeDlmM2FqenpsOGM2bmkxdDYzMzhpeGxmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XROOE9NApITmCgF6dZ/giphy.webp" width = 50px>
   </a> 
   Let’s connect and create something amazing together!
 </h1>
