@@ -184,7 +184,7 @@
 <br/>
 <h1 style="font-size:1em;">
     <a href="" align="center">
-    <img src = "https://media.tenor.com/2m4l360ccV4AAAAi/heart.gif" width =55px>
+    <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdwcWo5YnJxYXV5bnhzamp5MTNkYWlic2YyYmw4enhhZmRmM3RoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4JY0RtY2Qid1NoRoxW/giphy.webp" width =55px>
   </a>
    Profile views
 </h1> 
