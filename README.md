@@ -2,7 +2,7 @@
 <br/>
 <h1 style="font-size: 2em; margin: 0;">
   <a href="#--about-me--">
-    <img src = "" width = 50px>
+    <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjM4Njd0aGdwdTNxbmtmczR0dG56ZzA3dXd2YzQ2N25qajE2eTR3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width = 50px>
   </a>
   ABOUT ME
 </h1>  
