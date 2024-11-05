@@ -2,7 +2,7 @@
 <br/>
 <h1 style="font-size: 2em; margin: 0;">
   <a href="#--about-me--">
-    <img src = "https://media.tenor.com/kh8uPhgWG8EAAAAi/cat-sticker-line-sticker.gif" width = 50px>
+    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdndXFxY3p6M2R1cHlhMXV3NmM0bXVkYTN3M3lkZWVycjNhd2pmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.webp" width = 50px>
   </a>
   ABOUT ME
 </h1>  
