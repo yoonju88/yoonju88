@@ -1,9 +1,9 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 <br/>
 <h1 style="font-size: 2em; margin: 0;">
-  <a href="#--about-me--">
+ [ <a href="#--about-me--">
     <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjM4Njd0aGdwdTNxbmtmczR0dG56ZzA3dXd2YzQ2N25qajE2eTR3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width = 50px>
-  </a>
+  </a>](url)
   ABOUT ME
 </h1>  
 <p style="font-size: 1em; margin: 0;">A passionate frontend developer with a keen eye for detail and a love for creating beautiful, responsive, and user-friendly applications.</p>
