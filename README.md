@@ -170,7 +170,7 @@
 <br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width =50px>
+    <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUwNHdzaW0yZXQ0czliazRjZWxjYmxpeW55ZGp2YWQzYWhyNDMycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.webp" width =50px>
   </a>
   My GitHub State 
 </h1>  
