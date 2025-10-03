@@ -1,99 +1,49 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
-<br/>
-<h1 style="font-size: 2em;">
-  <a href="#-my-skill-sets--">
-  </a> 
-  SKILLS
-</h1>
-<h3 style="font-size: 1.5em; margin: 0;">
-web tools
-</h3>
-<table>
-  <tr>
-     <td align="center" width="90">
-        <img alt="HTML5" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-        <br><p>HTML5</p>
-    </td>
-     <td align="center" width="90">
-        <img alt="CSS3" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-        <br><p>CSS3</p>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><p>Javascript</p>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br><p>Typescript</p>
-    </td> 
-    <td align="center" width="90">
-      <a href="https://react.dev/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-      <br><p>React</p>
-    </td>
-   <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="32" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><p>Node.js</p>
-    </td>
-    </td>
-        <td align="center" width="90">
-        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br><p>Next.js</p>
-    </td>
-    <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><p>TailwindCSS</p>
-    </td> 
-  <td align="center" width="90">
-        <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="35" height="35" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-        <br><p>MongoDB</p>
-    </td>
-        <td align="center" width="90">
-        <a href="https://jestjs.io" target="_blank"><img alt="Jest" width="35" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/></a>
-        <br><p>Jest</p>
-    </td> 
-   <td align="center" width="90">
-        <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest/scale-to-width-down/250?cb=20221026155821" /></a>
-        <br><p>Vercel</p>
-      </td>
-      <td align="center" width="90">
-        <a href="https://render.com" target="_blank"><img alt="Render" width="32" height="32" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" /></a>
-        <br><p>Render</p>
-      </td>
-  </tr>
-</table>
-<h3 style="font-size: 1.5em; margin: 0;">
- Design tools
-</h3>
-<table>
-  <tr>
-    <td align="center" width="90">
-        <a href="" target="_blank">
-       <img alt="Figma" width="35" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
-        <br><p>Figma</p>
-      </td>
-      <td align="center" width="90">
-      <a href="" target="_blank">
-       <img alt="Photoshop" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" /></a>
-        <br><p>Photoshop</p>
-      </td>
-      <td align="center" width="90">
-        <a href="" target="_blank">
-       <img alt="Illustrator" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" /></a>
-        <br><p>Illustrator</p>
-      </td>
-    <td align="center" width="90">
-      <a href="" target="_blank">
-       <img alt="AfterEffect" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/246px-Adobe_After_Effects_CC_icon.svg.png" /></a>
-        <br><p>AfterEffect</p>
-      </td>
-      <td align="center" width="90">
-        <a href="" target="_blank">
-       <img alt="Canva" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
-        <br><p>Canva</p>
-      </td>   
-  </tr>
-</table>
-<br/>
+###
+<h3 align="center">🛠 Web - Language and tools</h3>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img alt="Vercel" height="40" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest/scale-to-width-down/250?cb=20221026155821" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+</div>
+###
+<h3 align="center">🛠 Design tools</h3>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+</div>
+###
 <h1 style="font-size:1em;">
   <a href="" align="center">
   </a>
@@ -107,9 +57,9 @@ web tools
   <img src="https://streak-stats.demolab.com?user=yoonju88&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <br/>
-
+<div align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=yoonju88.yoonju88&"  />
-
+</div>
 
 
 
