@@ -1,9 +1,9 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 </br>
 </br>
-<h1 align="center" style="font-size:1em;" >💻 Web - Language and tools</h1>
+<h1 align="left" style="font-size:1em;" >💻 Web - Language and tools</h1>
 </br>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -32,9 +32,9 @@
 </div>
 </br>
 </br>
-<h2 align="center" style="font-size:1em;">🖼️ Design tools</h2>
+<h1 align="left" style="font-size:1em;">🖼️ Design tools</h1>
 </br>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
@@ -47,9 +47,9 @@
 </div>
 </br>
 </br>
-<h2 style="font-size:1em;" align="center">
+<h1 style="font-size:1em;" align="left">
   🔥 My States 
-</h2>  
+</h1>  
 </br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoonju88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
