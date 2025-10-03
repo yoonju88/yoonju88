@@ -1,8 +1,9 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
-###
-<h3 align="center">🛠 Web - Language and tools</h3>
-###
-<div align="left">
+</br>
+</br>
+<h3 align="center">💻 Web - Language and tools</h3>
+</br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -29,10 +30,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
-###
-<h3 align="center">🛠 Design tools</h3>
-###
-<div align="left">
+</br>
+</br>
+<h3 align="center">🖼️ Design tools</h3>
+</br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
@@ -43,16 +45,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
-###
+</br>
+</br>
 <h1 style="font-size:1em;">
   <a href="" align="center">
   </a>
-  My States 
+  🔥 My States 
 </h1>  
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoonju88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonju88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+</br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yoonju88&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
