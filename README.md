@@ -2,7 +2,6 @@
 <br/>
 <h1 style="font-size: 2em;">
   <a href="#-my-skill-sets--">
-    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nb2o3cm5id2wybnYwZjU0NWU2aG1ldHg0djN3OXFjbHEwYWxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width = 50px >
   </a> 
   SKILLS
 </h1>
@@ -97,7 +96,6 @@ web tools
 <br/>
 <h1 style="font-size:1em;">
   <a href="" align="center">
-    <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUwNHdzaW0yZXQ0czliazRjZWxjYmxpeW55ZGp2YWQzYWhyNDMycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.webp" width =50px>
   </a>
   My GitHub State 
 </h1>  
@@ -109,25 +107,6 @@ web tools
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <br/>
-<h1 style="font-size:1em;">
-    <a href="" align="center">
-    <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdwcWo5YnJxYXV5bnhzamp5MTNkYWlic2YyYmw4enhhZmRmM3RoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4JY0RtY2Qid1NoRoxW/giphy.webp" width =55px>
-  </a>
-   Profile views
-</h1> 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yoonju88/count.svg?"  />
-</div>
-<br/>
-<h1 style="font-size:1em;">
-  <a href="" align="center">
-    <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR4czh3YWUxcmpldDUxeDlmM2FqenpsOGM2bmkxdDYzMzhpeGxmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XROOE9NApITmCgF6dZ/giphy.webp" width = 50px>
-  </a> 
-  Let’s connect and create something amazing together!
-</h1>
-  <a href="https://linkedin.com/in/yoonju-t" target="_blank"> 
-    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a> 
 
 
 
